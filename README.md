@@ -1,5 +1,6 @@
 # Hi there 👋
-My name is **Gift Oghogholosu**, a Chartered Accountant-cum-Credit Analyst turned Data Analyst. I have intermediate knowledge of Excel.
+## My name is **Gift Oghogholosu**, 
+I'm a Chartered Accountant-cum-Credit Analyst turned Data Analyst.
 
 
 -  🔭 I’m currently working on data analytics
